@@ -1,2 +1,2 @@
 # Expense-app-mern
-Expanse Management a[[
+Expanse Management app
